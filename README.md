@@ -108,12 +108,13 @@ Telnet allows to connect to remote host based on the port no. For smtp port no i
 telnet <host address> 25 to connect
 and issue appropriate commands  
 ## Output:
-  
+ ![image](https://github.com/user-attachments/assets/155dd20d-297f-4444-aeee-ba9f973274b9)
+
 ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 ## OUTPUT:
-
+![image](https://github.com/user-attachments/assets/bccd668d-2e9d-47d3-925e-dbcde85569ad)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
